@@ -1,2 +1,4 @@
 # Python-Form
-This is a from that is created with tkinter , it`s bassically saving my time repeating my self when creating a new user account , so instread of writing the same email over and over , i jsut fill outr this form and send it to diferent recipient
+This form is created with tkinter library 
+I created to save me time to not repeat myself after creating user accounts 
+so after submition this from create a text file and send that to recipient that requested 
